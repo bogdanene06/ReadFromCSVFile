@@ -16,8 +16,8 @@ I added functionalities with constant parameters for creating and deleting the C
 ## Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/bogdanene06/ReadFromCSVFile.git
+   cd ReadFromCSVFile
    
 ## Features
 CRUD operations on game data stored in a CSV file.
